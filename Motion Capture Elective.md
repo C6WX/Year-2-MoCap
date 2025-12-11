@@ -6,6 +6,18 @@
 
 ### Home Alone 
 
-### Arthur Christmas
+### Christmas Chronicles???
 
 ### Monsters Inc
+
+## Script
+
+## Shot List
+
+## Motion Capture Process
+
+## Scene Creation
+
+
+
+## Bibliography
