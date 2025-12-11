@@ -13,8 +13,9 @@ A ladder and a mat for the jumping and landing.
 ### Performance
 Santa jumps from the ladder and lands on the mat as if he fell from a tall height.
 ### Considerations
-
+Make sure that santa is jumping from a safe height with a safe amount of mats.
 ### Visualisation
+![Scene 1 Shot 1]()
 
 ## Scene 1 Shot 2
 
@@ -27,9 +28,9 @@ Chimney marker.
 ### Performance
 Santa walks towards the chimney and then stops and spots the drone (camera) before starting to climb into the chimney
 ### Considerations
-
+Make sure motions are visible from different camera perspectives. 
 ### Visualisation
-
+![Scene 1 Shot 2]()
 
 
 ## Scene 2 Shot 1
@@ -51,8 +52,9 @@ Toys dotted around the studio, a fireplace and door marker and matts for the bed
 ### Performance
 Santa starts sitting down as if they fell down the chimney, then stand up and notice the kid and the toys. Santa starts creeping over all the toys towards the door. Santa goes through the door and into the hallway.
 ### Considerations
-
+If toys are used in the scene, be careful not to tread on them to avoid injury.
 ### Visualisation
+![Scene 2 Shot 1]()
 
 ## Scene 2 Shot 2
 
@@ -64,8 +66,9 @@ Toys dotted around the studio, a fireplace marker and matts for the bed.
 ### Performance
 The military guy will creeps out from round the side of the bed and avoids the toys as santa did, heading for the door.
 ### Considerations
-
+If mats are used for the bed, some cameras might be blocked by the mats. 
 ### Visualisation
+![Scene 2 Shot 2]()
 
 ## Scene 3 Shot 1
 
@@ -79,8 +82,9 @@ Bauble to mark the stairs and a marker for the wall.
 ### Performance
 Santa mimes moving his hands across the hallway wall as if he couldn't see anything. When he reaches the stairs, he steps on the bauble without looking down at it. 
 ### Considerations
-
+Santa will have to be very careful with hand placement to avoid his hands clipping through the wall in the cut scene.
 ### Visualisation
+![Scene 3 Shot 1]()
 
 ## Scene 4 Shot 1
 
@@ -94,8 +98,9 @@ Kitchen counter desk with a plate of cookies.
 ### Performance
 Santa gets up from the floor and stumbles towards the counter as if he is hurt. He spots the cookies and starts pretending to eat.
 ### Considerations
-
+N/A
 ### Visualisation
+![Scene 4 Shot 1]()
 
 ## Scene 4 Shot 2
 
@@ -106,10 +111,11 @@ He’s been drugged.
 ### Setup
 Kitchen counter desk with a plate of cookies and a living room doorway.
 ### Performance
-All the cookies are now gone and santa grabs the table as if he is about to fall and then wobbles towards the living room door.
+All the cookies are now gone and santa grabs the counter as if he is about to fall and then wobbles towards the living room door.
 ### Considerations
-
+Make sure movements are visible from different perspectives.
 ### Visualisation
+![Scene 4 Shot 2]()
 
 ## Scene 5 Shot 1
 
@@ -126,9 +132,9 @@ Christmas tree marker and boxes for the presents.
 ### Performance
 Santa wobbles towards the tree and reaches for his sack to place presents. Santa kneels on one knee to reach under the tree and starts placing presents from inside the sack to under the tree.
 ### Considerations
-
+Make sure to be careful when placing the presents to avoid santa's arms clipping through the tree.
 ### Visualisation
-
+![Scene 5 Shot 1]()
 
 ## Scene 5 Shot 2
 
@@ -147,9 +153,9 @@ Christmas tree marker and boxes for the presents. Mats for the fall.
 ### Performance
 Santa will keep his hands stuck to his sides as if he is trapped in a wreath. Military soldiers will approach him holding weapons after santa has been trapped. Santa will then fall to his knees or fall over due to the drugged cookies.
 ### Considerations
-
+Make sure there is enough mats to avoid injury during the fall.
 ### Visualisation
-
+![Scene 5 Shot 2]()
 
 ## Scene 6 Shot 1
 
@@ -166,8 +172,8 @@ Bottles or chair legs to act as prison bars.
 ### Performance
 Santa will wake up in the cell from on the floor and then walks up to the bars and grips onto them and shakes. 
 ### Considerations
-
+N/A
 ### Visualisation
-
+![Scene 6 Shot 1]()
 
 <!-- UPLOAD THIS TO https://ucreative.sharepoint.com/sites/UC_DevelopmentJournals/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FUC%5FDevelopmentJournals%2FShared%20Documents%2FGeneral%2F2025%20%2D%2026%2FTerm%2001%2FFGCT5004%20Motion%20Capture%20Technologies%2FShot%20Breakdowns%20and%20Shoot%20Planning%20Sheets%2F03%20Wed%20%2D%20Santa%20Trackers&viewid=6aa64972%2Dbda2%2D4cbf%2D83c9%2Da51709f78444&p=true&ga=1 -->
